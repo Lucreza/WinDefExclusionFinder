@@ -2,7 +2,7 @@
 Small Script that permits to enumerate folders in Windows Defender Exclusion List with no Administrative privileges
 
 ## Small Explanation of the command used
-This small script is based on the following command that can be used to check if a specific folder is part of the Windows Defender Exclusion List.
+This small script is based on the following command that can be used to check if a specific folder is part of the Windows Defender Exclusion List. It uses an issue where Windows Defender will skip and notify that you that it did when starting a scan on a folder that is in the Exclusion list
 
 "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\path\to\folder\\*""
 
