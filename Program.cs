@@ -65,16 +65,19 @@ namespace WindowsDefenderExclusionChecker
 
             // Escape the folder path properly for the command
             string escapedFolderPath = $"{folderPath}\\";
+            Console.WriteLine(escapedFolderPath);
             // Build the full command
             string command = $"\"\"C:\\Program Files\\Windows Defender\\MpCmdRun.exe\" -Scan -ScanType 3 -File \"{escapedFolderPath}*\"\"";
-
+            Console.WriteLine(command);
             // Debugging: Print the full command to be executed
             //Console.WriteLine($"Executing command: {command}");
 
-            string output = ExecuteCommand(command);
-
             // Log the output to troubleshoot
             //Console.WriteLine($"Command Output for {folderPath}:");
+
+
+            string output = ExecuteCommand(command);
+
             //Console.WriteLine(output);
 
             // Check if the folder is skipped (excluded)
