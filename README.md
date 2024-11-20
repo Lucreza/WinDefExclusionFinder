@@ -4,7 +4,7 @@ Small Script that permits to enumerate folders in Windows Defender Exclusion Lis
 ## Small Explanation of the command used
 This small script is based on the following command that can be used to check if a specific folder is part of the Windows Defender Exclusion List.
 
-"C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\path\to\folder\*""
+"C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\path\to\folder\\*""
 
 ![image](https://github.com/user-attachments/assets/e416a271-6127-4911-9b89-45a51de1cfe1)
 
