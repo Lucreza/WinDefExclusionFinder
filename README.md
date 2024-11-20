@@ -21,3 +21,4 @@ Using our tool now we could check a folder and its children together without muc
      ```c
      WinDefExclusionFinder.exe "C:/path/to/folder/" 2
      ```
+![WinDefExclusionFinder_demo](https://github.com/user-attachments/assets/4fd7ab0f-f6b2-4619-9b42-d2a02742afcd)
