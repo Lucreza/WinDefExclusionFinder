@@ -1,0 +1,14 @@
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\bin\Release\net8.0\WinDefExclusionFinder.exe
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\bin\Release\net8.0\WinDefExclusionFinder.deps.json
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\bin\Release\net8.0\WinDefExclusionFinder.runtimeconfig.json
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\bin\Release\net8.0\WinDefExclusionFinder.dll
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\bin\Release\net8.0\WinDefExclusionFinder.pdb
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\WinDefExclusionFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\WinDefExclusionFinder.AssemblyInfoInputs.cache
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\WinDefExclusionFinder.AssemblyInfo.cs
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\WinDefExclusionFinder.csproj.CoreCompileInputs.cache
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\WinDefExclusionFinder.dll
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\refint\WinDefExclusionFinder.dll
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\WinDefExclusionFinder.pdb
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\WinDefExclusionFinder.genruntimeconfig.cache
+C:\Users\loutu\Documents\MalDevAcademy\Codes_Examples\WinDefExclusionFinder\obj\Release\net8.0\ref\WinDefExclusionFinder.dll
